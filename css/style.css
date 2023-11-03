@@ -807,7 +807,7 @@ section {
 
 .logo-container {
   text-align: center;
-  background-color: var(--black);
+  background-color: #000;
 }
 
 .logo-container img {
@@ -822,7 +822,7 @@ section {
 .footer {
   text-align: center;
   padding-bottom: 10rem;
-  background-color: var(--black);
+  background-color: #000;
 }
 
 .footer .links .btn {
