@@ -756,6 +756,7 @@ section {
 
 .logo-container {
   text-align: center;
+  background-color: var(--black);
 }
 
 .logo-container img {
@@ -770,6 +771,7 @@ section {
 .footer {
   text-align: center;
   padding-bottom: 10rem;
+  background-color: var(--black);
 }
 
 .footer .links .btn {
@@ -778,7 +780,7 @@ section {
 
 .footer .credit {
   font-size: 1.5rem;
-  color: var(--black);
+  color: var(--white);
   text-transform: capitalize;
   margin-top: 2rem;
   padding-top: 1rem;
