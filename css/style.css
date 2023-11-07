@@ -103,7 +103,7 @@ section {
       -ms-flex-pack: justify;
           justify-content: space-between;
   z-index: 1000;
-  background: var(--black);
+  background: var(--yellow);
 }
 
 .header .logo {
@@ -113,7 +113,7 @@ section {
 }
 
 .header .logo span {
-  color: var(--yellow);
+  color: var(--black);
 }
 
 .header .navbar a {
@@ -124,7 +124,7 @@ section {
 }
 
 .header .navbar a:hover {
-  color: var(--yellow);
+  color: var(--white);
 }
 
 .header .icons div {
@@ -132,8 +132,8 @@ section {
   width: 5rem;
   line-height: 5rem;
   font-size: 2rem;
-  background: var(--black);
-  color: var(--white);
+  background: var(--yellow);
+  color: var(--black);
   cursor: pointer;
   text-align: center;
   margin-left: 0.3rem;
@@ -563,11 +563,11 @@ section {
 }
 
 .projects {
-  background: var(--black);
+  background: var(--white);
 }
 
 .projects .heading {
-  color: var(--white);
+  color: var(--black);
 }
 
 .projects .box-container {
@@ -822,7 +822,7 @@ section {
 .footer {
   text-align: center;
   padding-bottom: 10rem;
-  background-color: #111;
+  background-color: #41aee4;
 }
 
 .footer .links .btn {
@@ -831,14 +831,14 @@ section {
 
 .footer .credit {
   font-size: 1.5rem;
-  color: var(--white);
+  color: var(--black);
   text-transform: capitalize;
   margin-top: 2rem;
   padding-top: 1rem;
 }
 
 .footer .credit span {
-  color: var(--yellow);
+  color: var(--white);
 }
 
 @media (max-width: 1200px) {
