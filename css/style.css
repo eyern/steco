@@ -750,11 +750,11 @@ section {
 }
 
 .contact {
-  background: var(--black);
+  background: var(--white);
 }
 
 .contact .heading {
-  color: var(--white);
+  color: var(--black);
 }
 
 .contact .row {
@@ -807,7 +807,7 @@ section {
 
 .logo-container {
   text-align: center;
-  background-color: #000;
+  background-color: #fff;
 }
 
 .logo-container img {
@@ -822,7 +822,7 @@ section {
 .footer {
   text-align: center;
   padding-bottom: 10rem;
-  background-color: #000;
+  background-color: #111;
 }
 
 .footer .links .btn {
